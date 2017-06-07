@@ -1,0 +1,28 @@
+{
+  "name": "react-redux-hash-routing",
+  "version": "0.0.1",
+  "description": "React Redux Hash Routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniogiordano/react-redux-hash-routing.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "hash",
+    "routing"
+  ],
+  "author": "antoniogiordano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniogiordano/react-redux-hash-routing/issues"
+  },
+  "homepage": "https://github.com/antoniogiordano/react-redux-hash-routing#readme",
+  "devDependencies": {
+    "react": "^15.5.4"
+  }
+}
